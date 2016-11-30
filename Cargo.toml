@@ -1,0 +1,22 @@
+[package]
+name = "endian-hasher"
+version = "0.1.0"
+authors = ["Jeffrey Burdges <burdges@gnunet.org>"]
+
+description = "Endianness wrapper for Hashers"
+
+#documentation = "..."
+
+homepage = "https://github.com/burdges/endian-hasher"
+repository = "https://github.com/burgdes/endian-hasher.git"
+
+readme = "README.md"
+
+keywords = ["hash","hasher", "endian", "big-endian", "little-endian", "byteorder", "binary"]
+
+license = "MIT/Apache-2.0"
+
+
+[dependencies]
+
+
