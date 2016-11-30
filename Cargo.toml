@@ -12,7 +12,7 @@ repository = "https://github.com/burgdes/endian-hasher.git"
 
 readme = "README.md"
 
-keywords = ["hash","hasher", "endian", "big-endian", "little-endian", "byteorder", "binary"]
+keywords = ["hash","hasher", "endian", "endianness", "little-endian"]
 
 license = "MIT/Apache-2.0"
 
