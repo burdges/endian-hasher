@@ -8,7 +8,7 @@ description = "Endianness wrapper for Hashers"
 #documentation = "..."
 
 homepage = "https://github.com/burdges/endian-hasher"
-repository = "https://github.com/burgdes/endian-hasher.git"
+repository = "https://github.com/burdges/endian-hasher.git"
 
 readme = "README.md"
 
