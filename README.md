@@ -1,14 +1,20 @@
 This crate provides wrappers for `Hasher` that change the endianness
 used when hashing primitive numeric types.
 
+### Documentation
+
+There is documentation with examples at [https://docs.rs/endian-hasher/](https://docs.rs/endian-hasher/)
+
+
 ### Installation
+
 
 This crate works with Cargo and is on
 [crates.io](https://crates.io/crates/endian-hasher).  Add it to your `Cargo.toml` with:
 
 ```toml
 [dependencies]
-endianhasher = "0.1"
+endianhasher = "^0.1"
 ```
 
 Use the crate like:
