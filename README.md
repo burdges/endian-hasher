@@ -1,9 +1,12 @@
 This crate provides wrappers for `Hasher` that change the endianness
 used when hashing primitive numeric types.
 
+[![documentation](https://docs.rs/endian-hasher/badge.svg)](https://docs.rs/endian-hasher/)
+
 ### Documentation
 
 There is documentation with examples at [https://docs.rs/endian-hasher/](https://docs.rs/endian-hasher/)
+
 
 
 ### Installation
